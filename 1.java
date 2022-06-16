@@ -1,3 +1,3 @@
 hello world
 
-More hellos
+More hello
